@@ -1,0 +1,11 @@
+Strain Name, Indica or Sativa or Hybrid, Dominant Terpenes, Grow Time (weeks)
+OG Kush, H/I, Caryophyllene, 8
+Pineapple Express, H/S, Caryophyllene, 8
+AK-47, H/S, Caryophyllene, 9
+Blue Dream, H/S, Caryophyllene, 10
+Gelato, H/S, Myrcene, 9
+Green Crack, S, Linalool, 7
+Purple Haze, H, Limonene, 9
+Sour Diesel, H/S, Limonene, 11 
+Wedding Cake, H/I, Caryophyllene, 9
+Sunset Sherbet, H/I, Caryophyllene, 9
